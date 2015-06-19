@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>JUBIN-PC</Machine>
+    <WindowsUser>JuBin_Lin</WindowsUser>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Users\资料\game\guess\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Users\资料\game\guess\bin\Release\guess.exe">
+      <PackagePath>guess.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\资料\game\guess\bin\Release\guess.pdb">
+      <PackagePath>guess.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\资料\game\guess\Assets\data\lyric.txt">
+      <PackagePath>Assets\data\lyric.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\资料\game\guess\Assets\data\song.txt">
+      <PackagePath>Assets\data\song.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\资料\game\guess\Assets\data\song2.txt">
+      <PackagePath>Assets\data\song2.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\资料\game\guess\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\资料\game\guess\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\资料\game\guess\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\资料\game\guess\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\资料\game\guess\bin\Release\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\资料\game\guess\bin\Release\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\资料\game\guess\bin\Release\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\资料\game\guess\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

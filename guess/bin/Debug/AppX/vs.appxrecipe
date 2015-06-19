@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>JUBIN-PC</Machine>
+    <WindowsUser>JuBin_Lin</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>6C4186D61567ED3E001AF875F19A6909DC4420A10002501606B1FD087D11DC80</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>5788e59d-2e85-426a-ad8c-d3e4112bda81_1.0.0.0_neutral__4b6v0yxzze7pp</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>5788e59d-2e85-426a-ad8c-d3e4112bda81_4b6v0yxzze7pp!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>5788e59d-2e85-426a-ad8c-d3e4112bda81</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=JuBin_Lin</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Users\资料\game\guess\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-10T15:12:53.134</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Users\资料\game\guess\bin\Debug\guess.exe">
+      <PackagePath>guess.exe</PackagePath>
+      <Modified>2015-06-10T15:38:39.314</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\资料\game\guess\bin\Debug\guess.pdb">
+      <PackagePath>guess.pdb</PackagePath>
+      <Modified>2015-06-10T15:38:39.287</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\资料\game\guess\Assets\data\song.txt">
+      <PackagePath>Assets\data\song.txt</PackagePath>
+      <Modified>2015-06-10T14:32:45.849</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\资料\game\guess\Assets\data\song2.txt">
+      <PackagePath>Assets\data\song2.txt</PackagePath>
+      <Modified>2015-06-09T06:09:36.045</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\资料\game\guess\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-10T03:45:33.935</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\资料\game\guess\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-10T03:48:30.743</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\资料\game\guess\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-10T03:52:35.764</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\资料\game\guess\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-10T03:49:57.950</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\资料\game\guess\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2015-06-09T05:08:53.893</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\资料\game\guess\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-07-26T12:23:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\资料\game\guess\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2015-06-10T15:03:36.212</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\资料\game\guess\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-06-09T05:59:44.829</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
